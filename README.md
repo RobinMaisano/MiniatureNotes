@@ -58,3 +58,6 @@
 * Nocturna models (Gamefound only?, **source?**) [https://nocturnamodels.com/]
 * Odyssey Collectibles (Historic miniatures & Busts) [https://www.odysseycollectibles.shop/en]
 * Sum Art (Expensive, Vendor in Europe?, **Japan**) [https://www.sum-art.jp/]
+
+### Discontinue
+* Discordia miniature (closed, **Italy**) old website: [https://discordiaminiatures.bigcartel.com/]
