@@ -57,4 +57,4 @@
 * MyMiniFactory (only STL models, printing to do) [https://www.myminifactory.com/fr/]
 * Nocturna models (Gamefound only?, **source?**) [https://nocturnamodels.com/]
 * Odyssey Collectibles (Historic miniatures & Busts) [https://www.odysseycollectibles.shop/en]
-* Sum Art (Expansive, Vendor in Europe?, **Japan**) [https://www.sum-art.jp/]
+* Sum Art (Expensive, Vendor in Europe?, **Japan**) [https://www.sum-art.jp/]
